@@ -1,0 +1,21 @@
+PFAS,Treatment,Category,How_It_Works,Reported_Removal,Performance_Level,Limitation,Source
+PFOA,GAC,Adsorption,PFAS adsorbs onto the porous activated carbon surface,>92%,High,Performance depends on carbon type bed life flow rate and water chemistry,EPA
+PFOA,AIX,Ion Exchange,Negatively charged PFAS interacts with positively charged anion exchange resin,>75%,Moderate-High,Performance depends on resin type and water conditions,EPA
+PFOA,RO,Membrane,High pressure forces water through a semipermeable membrane while PFAS is rejected,~99%,Very High,Produces a concentrated reject stream and requires energy,EPA
+PFOA,NF,Membrane,Pressure driven membrane rejects PFAS from the water,~99%,Very High,Performance depends on membrane type pH temperature and water chemistry,EPA
+PFOS,GAC,Adsorption,PFAS adsorbs onto the porous activated carbon surface,>95%,High,Carbon eventually becomes saturated and requires replacement or regeneration,EPA
+PFOS,AIX,Ion Exchange,Negatively charged PFAS interacts with positively charged anion exchange resin,>92%,High,Performance depends on resin type and water conditions,EPA
+PFOS,RO,Membrane,High pressure forces water through a semipermeable membrane while PFAS is rejected,~99%,Very High,Produces a concentrated reject stream and requires energy,EPA
+PFOS,NF,Membrane,Pressure driven membrane rejects PFAS from the water,~99%,Very High,Performance depends on membrane type pH temperature and water chemistry,EPA
+PFBS,GAC,Adsorption,PFAS adsorbs onto the porous activated carbon surface,Variable,Moderate,Short chain PFAS can be more difficult for GAC and performance depends on water chemistry,EPA
+PFBS,AIX,Ion Exchange,Negatively charged PFAS interacts with positively charged anion exchange resin,Variable,High,Performance depends on resin type and competing ions,EPA
+PFBS,RO,Membrane,High pressure forces water through a semipermeable membrane while PFAS is rejected,Variable,High,Performance depends on membrane type and operating conditions,EPA
+PFBS,NF,Membrane,Pressure driven membrane rejects PFAS from the water,Variable,Moderate-High,Performance depends on membrane type pH temperature and water chemistry,EPA
+PFHxS,GAC,Adsorption,PFAS adsorbs onto the porous activated carbon surface,Variable,High,Performance depends on carbon type bed life flow rate and water chemistry,EPA
+PFHxS,AIX,Ion Exchange,Negatively charged PFAS interacts with positively charged anion exchange resin,Variable,High,Performance depends on resin type and competing ions,EPA
+PFHxS,RO,Membrane,High pressure forces water through a semipermeable membrane while PFAS is rejected,Variable,Very High,Produces a concentrated reject stream and requires energy,EPA
+PFHxS,NF,Membrane,Pressure driven membrane rejects PFAS from the water,Variable,High,Performance depends on membrane type pH temperature and water chemistry,EPA
+PFHxA,GAC,Adsorption,PFAS adsorbs onto the porous activated carbon surface,Variable,Moderate,Short chain PFAS can be more difficult for GAC and performance depends on water chemistry,EPA
+PFHxA,AIX,Ion Exchange,Negatively charged PFAS interacts with positively charged anion exchange resin,Variable,High,Performance depends on resin type and competing ions,EPA
+PFHxA,RO,Membrane,High pressure forces water through a semipermeable membrane while PFAS is rejected,Variable,Very High,Produces a concentrated reject stream and requires energy,EPA
+PFHxA,NF,Membrane,Pressure driven membrane rejects PFAS from the water,Variable,Moderate-High,Performance depends on membrane type pH temperature and water chemistry,EPA

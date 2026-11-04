@@ -1,0 +1,6 @@
+PFAS,Full_Name,Type,SMILES,Chain_Length,Functional_Group
+PFOA,Perfluorooctanoic acid,Carboxylic acid, C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,7,Carboxylic acid
+PFOS,Perfluorooctanesulfonic acid,Sulfonic acid,C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F,8,Sulfonic acid
+PFBS,Perfluorobutanesulfonic acid,Sulfonic acid,C(C(C(F)(F)S(=O)(=O)O)(F)F)(C(F)(F)F)(F)F,4,Sulfonic acid
+PFHxS,Perfluorohexanesulfonic acid,Sulfonic acid,C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F,6,Sulfonic acid
+PFHxA,Perfluorohexanoic acid,Carboxylic acid,C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O,5,Carboxylic acid

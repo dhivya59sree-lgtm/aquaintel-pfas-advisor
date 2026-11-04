@@ -1,0 +1,6 @@
+PFAS,Molecular_Weight,LogP,Atom_Count,Carbon_Atoms,Fluorine_Atoms,Chain_Length,Functional_Group
+PFOA,414.06399999999985,4.4451,25,8,15,7,Carboxylic acid
+PFOS,500.1259999999999,4.8411,29,8,17,8,Sulfonic acid
+PFBS,300.09799999999996,2.2999,17,4,9,4,Sulfonic acid
+PFHxS,400.1119999999999,3.5705,23,6,13,6,Sulfonic acid
+PFHxA,314.04999999999995,3.1744999999999997,19,6,11,5,Carboxylic acid
