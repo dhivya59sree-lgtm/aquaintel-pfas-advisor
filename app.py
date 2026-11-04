@@ -330,7 +330,10 @@ footer { visibility: hidden; }
 # ==================================================
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(BASE_DIR / ".env")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+try:
+    GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
+except Exception:
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 @st.cache_data
 def load_data():
